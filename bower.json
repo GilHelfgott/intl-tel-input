@@ -2,6 +2,7 @@
   "name": "intl-tel-input",
   "main": [
     "./build/js/intlTelInput.js",
+    "./build/js/utils.js",
     "./build/css/intlTelInput.css"
   ],
   "dependencies": {
