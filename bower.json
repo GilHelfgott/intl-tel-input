@@ -1,9 +1,7 @@
 {
   "name": "intl-tel-input",
   "main": [
-    "./build/js/intlTelInput.js",
-    "./build/js/utils.js",
-    "./build/css/intlTelInput.css"
+    "./build/js/utils.js"
   ],
   "dependencies": {
     "jquery": ">=1.7"
